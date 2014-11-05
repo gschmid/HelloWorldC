@@ -2,6 +2,6 @@
 #include <stdint.h>
 
 int32_t main(void) {
-    printf("Blue Chip CI Test Program\n");
+    printf("Test for da boys\n");
     return 1;
 }

@@ -2,6 +2,6 @@
 #include <stdint.h>
 
 int32_t main(void) {
-    printf("Test for da boys\n");
+    printf("Jenkins Jira Test\n");
     return 1;
 }

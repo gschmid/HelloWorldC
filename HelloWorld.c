@@ -2,6 +2,6 @@
 #include <stdint.h>
 
 int32_t main(void) {
-    printf("Stability test\n");
+    printf("Clean start helloC\n");
     return 1;
 }
